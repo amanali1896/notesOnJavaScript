@@ -13,4 +13,12 @@
    typeof NaN is a number. 
    typeof null is an object.
    typeof undefined is undefined.
-   
+
+-- objects. can have fields and methods. 
+  var aman{
+  name:'aman'
+  };
+  
+  consolelog(aman.name);
+  
+--
