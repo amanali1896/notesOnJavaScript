@@ -47,14 +47,14 @@
 -- function aman(){} is the syntax of the function. and it is called using the function keyword aman(); . Thanks to hoisting we can call
 the fucntion and declare it, or vice versa. 
 
-another way to declare a function is 
+      another way to declare a function is 
 
-var aman=function (){};// typeof aman is "function"
+      var aman=function (){};// typeof aman is "function"
 
-we can also equate functions like we have taken equate number variable:
+      we can also equate functions like we have taken equate number variable:
 
-var ali=aman;//ali() is same as aman()
-
+      var ali=aman;//ali() is same as aman()
+--
 
 
 
