@@ -26,13 +26,23 @@
 -- js supports dynamic typing. we can assign same variable to number as well as strings. we can switch things.
 -- js offers hoisting!! means it goes through the code twice. This gets all the variable declarations to the top line. 
 
-aman = 1;
-console.log(aman);
-var aman; 
+               aman = 1;
+               console.log(aman);
+               var aman; 
 
-this is equal to 
+               this is equal to 
 
-var aman; 
-aman = 1;
-console.log(aman);
+               var aman; 
+               aman = 1;
+               console.log(aman);
+
+               but 
+               console.log(aman);
+               var aman; 
+               aman = 1;
+               will produce an output that is "undefined". because the declaration must be done before hand. 
+               otherwise it is using some variable without 
+               any declaration
+               
+ 
 
