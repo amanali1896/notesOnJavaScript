@@ -5,4 +5,7 @@
 -- var keyword is used to define a variable. 
 -- float and integers are of type numbers.
 -- anything with a text is a string. 
+-- array is an object 
+-- [1,2,3,'4'] || [1, 2 , 3, variable]. index of an array starts with "0".
+-- undefined keyword, Null, NAN
 --
