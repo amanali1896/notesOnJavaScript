@@ -7,5 +7,10 @@
 -- anything with a text is a string. 
 -- array is an object 
 -- [1,2,3,'4'] || [1, 2 , 3, variable]. index of an array starts with "0".
--- undefined keyword, Null, NAN
---
+-- undefined keyword, Null, NaN
+-- null==undefined /*the output is true*/
+   null === undefined /*the output is false*//*strict equals, checks type equality*/
+   typeof NaN is a number. 
+   typeof null is an object.
+   typeof undefined is undefined.
+   
