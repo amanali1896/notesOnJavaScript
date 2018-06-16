@@ -1,3 +1,5 @@
--- Javascript executes in the browser. not the server
+-- Javascript executes in the browser. not the server.
 -- We can create reactive user interfaces. 
--- can be run on server using node.js
+-- can be run on server using node.js . 
+-- it has two versions. ecmascript 5 and 6. 
+--
