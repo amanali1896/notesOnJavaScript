@@ -21,4 +21,7 @@
   
   consolelog(aman.name);
   
+-- global and local scopes
+-- strict mode: used for proper syntax only. "use strict". semi colons are a better practice to be added
+-- js supports dynamic typing. we can assign same variable to number as well as strings. we can switch things.
 --
