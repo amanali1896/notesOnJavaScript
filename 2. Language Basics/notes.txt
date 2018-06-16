@@ -44,5 +44,7 @@
                otherwise it is using some variable without 
                any declaration
                
+-- function aman(){} is the syntax of the function. and it is called using the function keyword aman(); . Thanks to hoisting we can call
+the fucntion and declare it, or vice versa. 
  
 
