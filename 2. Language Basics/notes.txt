@@ -2,3 +2,7 @@
 -- <noscript> is a tag that will display a particular message if the javascript is turned off using a extension
 -- generally js is included into another file and import it to html.
 -- usage of "differ" in the tag.
+-- var keyword is used to define a variable. 
+-- float and integers are of type numbers.
+-- anything with a text is a string. 
+--
