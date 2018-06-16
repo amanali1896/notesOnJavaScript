@@ -1,1 +1,2 @@
-
+-- add <script> tag in the body section of the html. not the head.
+-- <noscript> is a tag that will display a particular message if the javascript is turned off. 
