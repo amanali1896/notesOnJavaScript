@@ -24,4 +24,15 @@
 -- global and local scopes
 -- strict mode: used for proper syntax only. "use strict". semi colons are a better practice to be added
 -- js supports dynamic typing. we can assign same variable to number as well as strings. we can switch things.
---
+-- js offers hoisting!! means it goes through the code twice. This gets all the variable declarations to the top line. 
+
+aman = 1;
+console.log(aman);
+var aman; 
+
+this is equal to 
+
+var aman; 
+aman = 1;
+console.log(aman);
+
