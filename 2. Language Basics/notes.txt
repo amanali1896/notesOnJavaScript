@@ -54,8 +54,9 @@ the fucntion and declare it, or vice versa.
       we can also equate functions like we have taken equate number variable:
 
       var ali=aman;//ali() is same as aman()
---
+-- function parameters are same as other languages. aman(a);
 
+-- flow control can be done using if,
 
 
  
