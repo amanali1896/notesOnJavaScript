@@ -64,7 +64,10 @@ is interpreted as true in boolean thing
    2==true//false
    if(2)// its greater than zero are true. 
    any string in the if statement is also interpreted as true. for example if(anyText)//true.
+   if(null)// null is treated as false
    
+ -- switch statement is very similar to other languages
+   break keyword is used to exit one section.
 
 
  
