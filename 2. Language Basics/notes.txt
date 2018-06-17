@@ -63,6 +63,7 @@ is interpreted as true in boolean thing
    1===true//false
    2==true//false
    if(2)// its greater than zero are true. 
+   any string in the if statement is also interpreted as true. for example if(anyText)//true.
    
 
 
