@@ -73,6 +73,8 @@ is interpreted as true in boolean thing
  -- "break" exits the loop, "continue" exits the current iteration and skips to the next iteration.
  
  -- there is not arraysoutofbounds exception in javascript. it just prints the "undefined" and continues executing.
+ -- array.length returns the length of the array. 
+ --
 
 
  
