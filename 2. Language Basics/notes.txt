@@ -74,7 +74,29 @@ is interpreted as true in boolean thing
  
  -- there is not arraysoutofbounds exception in javascript. it just prints the "undefined" and continues executing.
  -- array.length returns the length of the array. 
- --
+ -- a='am'
+    b='an'
+    a+b="aman"
+    ---
+    a=3
+    b='a'
+    a+b=3a
+    ---
+    a=
+    b=
+    a+b=
+    ---
+    a=
+    b=
+    a+b=
+    ---
+    a=
+    b=
+    a+b=
+    ---
+    a=
+    b=
+    a+b=
 
 
  
