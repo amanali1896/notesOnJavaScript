@@ -68,6 +68,7 @@ is interpreted as true in boolean thing
    
  -- switch statement is very similar to other languages
    break keyword is used to exit one section.
+ -- for loop is similar to what it is in other languages.
 
 
  
