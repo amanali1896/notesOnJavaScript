@@ -1,7 +1,7 @@
 # notesOnJavaScript
 
 1) As you all know that JavaScript is eating the web. And it is the go-to programming language for web development. 
-2) Atwood laws states ""Any application that can be written in JavaScript, will eventually be written in JavaScript."
+2) Atwood laws states "Any application that can be written in JavaScript, will eventually be written in JavaScript."
    ( https://en.wikipedia.org/wiki/Jeff_Atwood )
 3) This repository consists of my study of the language, while going through the popular Udemy JavaScript bootcamp 
    " Accelerated JavaScript Training ( https://www.udemy.com/javascript-bootcamp-2016/ ) taught by instructor 
