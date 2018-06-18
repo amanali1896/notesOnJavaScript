@@ -71,6 +71,8 @@ is interpreted as true in boolean thing
  -- for loop is similar to what it is in other languages.
  
  -- "break" exits the loop, "continue" exits the current iteration and skips to the next iteration.
+ 
+ -- there is not arraysoutofbounds exception in javascript. it just prints the "undefined" and continues executing.
 
 
  
