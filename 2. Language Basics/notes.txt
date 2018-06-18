@@ -82,21 +82,36 @@ is interpreted as true in boolean thing
     b='a'
     a+b=3a
     ---
-    a=
-    b=
-    a+b=
+    a= [1,2]
+    b='a'
+    a+b= 1,2 a
     ---
-    a=
-    b=
-    a+b=
+    a=18
+    b='08'
+    a+b="1808"
     ---
-    a=
-    b=
-    a+b=
+    a= 13
+    b= true
+    a+b= 14
     ---
-    a=
-    b=
-    a+b=
+    a=true
+    b= true
+    a+b=2
+    ---
+    a=18
+    b=null
+    a+b=18
+    ---
+    a=18
+    b=undefined
+    a+b=NaN
+    ---
+    a=18
+    b=NaN
+    a+b=NaN
+    
+    
+ --
 
 
  
