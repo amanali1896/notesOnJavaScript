@@ -7,7 +7,7 @@
    " Accelerated JavaScript Training ( https://www.udemy.com/javascript-bootcamp-2016/ ) taught by instructor 
     Maximilian Schwarzmüller.
 4) Hope you like the repository and if you have any questions regarding the content, feel free to contact me via my email address
-   pamanalionline@gmail.com.
+   pamanalionline@gmail.com .
 5) This repository is licensed under "gnu general public license version 3".
 
 
@@ -15,4 +15,4 @@ Note: None of the links are affiliate links and I will not earn a single penny i
       open source education. Though I would strongly recommend you to take the course as I have personally learned a lot from it. 
       
 Authored by : Aman Ali
-Date: 18th June 2018
+
