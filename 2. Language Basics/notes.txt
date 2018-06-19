@@ -143,7 +143,20 @@ is interpreted as true in boolean thing
     a*b=infinity 
     ------
  
---
+-- a=3
+   b='3'
+   a/b=1
+   ------
+   a=2.2
+   b=1.1
+   a/b=1.4999999999999998// inaccuracy
+   
+   ------
+   
+   10/0=infinity
+   -------
+   10/infinity=0
+   -------
     
 
  
