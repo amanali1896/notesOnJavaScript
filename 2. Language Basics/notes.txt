@@ -172,6 +172,12 @@ is interpreted as true in boolean thing
    null==undefined//exception to the rule.
    0==undefined// false, undefined always returns false but when compared to null
    
--- 
+-- &&,||
+
+   T||F&&T=T
+   
+   T&&F||F=F
+   
+   
  
 
