@@ -158,6 +158,15 @@ is interpreted as true in boolean thing
    10/infinity=0
    -------
     
+--
+   1==1 //true
+   1===1//true
+   1==='1'//false
+   1=='1'//true
+   1!=='1'//true
+   '>==' operator doesn't exist // no type checking exists in this way. it makes no sense
+   
+   
 
  
 
