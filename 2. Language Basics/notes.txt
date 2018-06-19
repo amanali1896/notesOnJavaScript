@@ -167,6 +167,11 @@ is interpreted as true in boolean thing
    '>==' operator doesn't exist // no type checking exists in this way. it makes no sense
    
    
-
+-- NaN==NaN//false
+   0==null//false, null can't be compared.
+   null==undefined//exception to the rule.
+   0==undefined// false, undefined always returns false but when compared to null
+   
+-- 
  
 
