@@ -4,7 +4,7 @@
 2) Atwood laws states "Any application that can be written in JavaScript, will eventually be written in JavaScript."
    ( https://en.wikipedia.org/wiki/Jeff_Atwood )
 3) This repository consists of my study of the language, while going through the popular Udemy JavaScript bootcamp 
-   " Accelerated JavaScript Training ( https://www.udemy.com/javascript-bootcamp-2016/ ) taught by instructor 
+   " Accelerated JavaScript Training " ( https://www.udemy.com/javascript-bootcamp-2016/ ) taught by instructor 
     Maximilian Schwarzmüller.
 4) Hope you like the repository and if you have any questions regarding the content, feel free to contact me via my email address
    pamanalionline@gmail.com .
